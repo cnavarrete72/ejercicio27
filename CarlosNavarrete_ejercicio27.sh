@@ -4,7 +4,7 @@
 #PBS -m abe
 #PBS -N CarlosNavarrete_ejercicio27
 
-cd /hpcfs/home/fisi4028/jp.barrero10/JuanPabloBarrero_Ejercicio27/
+cd /hpcfs/home/fisi4028/cf.navarrete969/CarlosNavarrete_Ejercicio27/
 
 module load mpich/3.2.1
 
